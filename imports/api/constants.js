@@ -1,0 +1,1 @@
+export const myConstant = "I'm a constant!";
